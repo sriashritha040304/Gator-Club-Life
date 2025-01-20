@@ -36,26 +36,11 @@ The University Events Platform provides a centralized, user-friendly system that
 
 ---
 
-## Key Features
-1. **Event Discovery**: Students can explore events by category, date, or relevance.
-2. **RSVP Management**: One-click RSVP functionality with waitlist support.
-3. **Notifications**: Automated email and app notifications for reminders and updates.
-4. **Organizer Dashboard**: Tools for creating events, managing attendees, and tracking metrics.
-5. **Real-Time Updates**: Instant alerts for changes in event details.
-6. **Integration Options**: Sync with calendars, university portals, and social media.
-
----
-
 ## Benefits
 ### For Students:
 - Increased awareness of campus activities.
 - Hassle-free participation and reminders.
 - Enhanced engagement with the university community.
-
-### For Organizers:
-- Improved event visibility and attendance.
-- Simplified attendee management.
-- Enhanced communication with participants.
 
 ---
 
@@ -64,25 +49,6 @@ The University Events Platform provides a centralized, user-friendly system that
 - A university email ID for registration.
 - Access to a web browser or mobile app.
 
-### Steps:
-1. **Sign Up**: Create an account using your university credentials.
-2. **Browse Events**: Explore upcoming events and RSVP.
-3. **Organize Events**: If you're an organizer, create an event and start managing it effortlessly.
-4. **Stay Updated**: Receive notifications and reminders directly in your inbox or app.
-
 ---
-
-## Contributing
-We welcome contributions to improve the platform! Please follow our [contribution guidelines](CONTRIBUTING.md).
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact
-For queries or feedback, please reach out to us at [support@universityevents.com](mailto:support@universityevents.com).
 
 
