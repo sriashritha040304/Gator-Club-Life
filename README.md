@@ -36,19 +36,5 @@ The University Events Platform provides a centralized, user-friendly system that
 
 ---
 
-## Benefits
-### For Students:
-- Increased awareness of campus activities.
-- Hassle-free participation and reminders.
-- Enhanced engagement with the university community.
-
----
-
-## Getting Started
-### Requirements:
-- A university email ID for registration.
-- Access to a web browser or mobile app.
-
----
 
 
